@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net35;net40;net45;netstandard2.0</TargetFrameworks>
+    <AssemblyName>PlusTags</AssemblyName>
+    <RootNamespace>PlusTags</RootNamespace>
+    <Company>Celeris-Soft</Company>
+    <Authors>Carlos Daniel Angulo López</Authors>
+    <Description>Simple library for handling localization string tags from code behind of .NET applications.</Description>
+  </PropertyGroup>
+
+</Project>
