@@ -3,14 +3,14 @@ Simple library for handling localization string tags from code behind of .NET ap
 
 ## :mag: Features
 - This library is a .NET Standard library built using Visual Studio 2017
-- Support both .NET Framework and .NET Core Framework	
+- Support both .NET Framework 4.x and .NET Core Framework 2.x	
 - Use only one XML file to store the information
 
 ## :pushpin: Target Applications
 This library is aimed at the following type of applications:
 - **Desktop**
    - Console Applications (.NET/.NET Core)
-   - WinForms (.NET/.NET Core)
+   - WinForms (.NET)
 - **Web**
    - ASP.NET WebForms (.NET)
    - ASP.NET MVC (.NET/.NET Core)
