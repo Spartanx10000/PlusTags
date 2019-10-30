@@ -1,0 +1,9 @@
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\bin\Debug\netcoreapp2.1\PlusTags.deps.json
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\bin\Debug\netcoreapp2.1\PlusTags.dll
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\bin\Debug\netcoreapp2.1\PlusTags.pdb
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\netcoreapp2.1\PlusTags.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\netcoreapp2.1\PlusTags.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\netcoreapp2.1\PlusTags.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\netcoreapp2.1\PlusTags.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\netcoreapp2.1\PlusTags.dll
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\netcoreapp2.1\PlusTags.pdb

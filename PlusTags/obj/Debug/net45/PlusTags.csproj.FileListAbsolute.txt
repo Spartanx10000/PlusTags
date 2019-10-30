@@ -6,3 +6,11 @@ C:\Users\carlo\source\repos\PlusTags\PlusTags\obj\Debug\net45\PlusTags.AssemblyI
 C:\Users\carlo\source\repos\PlusTags\PlusTags\obj\Debug\net45\PlusTags.AssemblyInfo.cs
 C:\Users\carlo\source\repos\PlusTags\PlusTags\obj\Debug\net45\PlusTags.dll
 C:\Users\carlo\source\repos\PlusTags\PlusTags\obj\Debug\net45\PlusTags.pdb
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\bin\Debug\net45\PlusTags.dll
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\bin\Debug\net45\PlusTags.pdb
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\net45\PlusTags.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\net45\PlusTags.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\net45\PlusTags.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\net45\PlusTags.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\net45\PlusTags.dll
+C:\Users\carlo\Desktop\Development\Repository\Desktop\Class Library\PlusTags\PlusTags\obj\Debug\net45\PlusTags.pdb
