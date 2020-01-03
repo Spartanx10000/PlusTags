@@ -1,4 +1,5 @@
-# :bookmark_tabs: PlusTags 
+![PlusTags](https://user-images.githubusercontent.com/25779434/71748012-84d2c400-2e2e-11ea-9e59-fa5e33733589.png)
+
 Simple library for handling localization string tags from code behind of .NET applications.
 
 ## :mag: Features
